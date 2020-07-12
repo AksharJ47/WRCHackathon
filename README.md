@@ -3,7 +3,7 @@
 #### Team members
 
 - Rohini Jagath
-- Akshur Jadoonandan
+- Akshar Jadoonandan
 - Shraddra Rajcoomar
 - Sibonelo Malakiya
 - Marcio Maluka
